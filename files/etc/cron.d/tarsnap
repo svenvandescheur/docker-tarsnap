@@ -1,0 +1,2 @@
+# Run backup script
+*/5 * * * * root /usr/local/bin/tarsnap.sh > /dev/null
